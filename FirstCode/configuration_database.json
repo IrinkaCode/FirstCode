@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=172.20.10.4;database=testdatabase;user=cifra;password=000000"
+  }
+}
